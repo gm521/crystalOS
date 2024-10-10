@@ -1,6 +1,10 @@
-/*-=-= HYDROGEN 2 -=-=*/
-// Creators github: https://github.com/gm521)
+/*-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+             HYDROGEN-2
+          By GamingGamer521
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=*/
 
+// - Used in Crystal OS, an operating system for the arduino nano
+// - Used in other personal projects of mine
 #include <SdFat.h>
 #define _3BC_DISABLE_INTERPRETER
 #include <3bc.h>
