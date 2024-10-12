@@ -1,0 +1,7 @@
+- [x] Make it so 3BC code runs from SD card file
+- [x] make file format more compact
+- [ ] write file system driver
+- [ ] write keyboard driver
+- [ ] write mouse driver
+- [ ] write graphics driver
+- [ ] write audio driver
